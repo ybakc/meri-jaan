@@ -316,3 +316,12 @@ h2 {
     transform: scale(1.05);
     background: var(--secondary-color);
 } 
+
+.celebration-message {
+    font-size: 1.0rem;                 /* Adjust size here */
+   font-family: "Dancing Script", cursive;
+    font-weight: 300;
+    line-height: 1.6;
+    color: #ff4757;
+    margin-top: 10px;
+}
