@@ -50,15 +50,15 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yaaay! I'm the luckiest girl in the world! HEHEHE 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm (virtual) hug and a huge kiss!",
+        message: "Aashutosh, tumhe idea probably nahi hai how easily you make me smile. Tumhare saath time ka pata hi nahi chalta, and honestly, I kind of love that. Thodi shy hu 💀, but I’m really happy you’re mine. 💕",
         emojis: "💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
+        backgroundStart: "#1679AB",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#1679AB",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
