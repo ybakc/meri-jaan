@@ -33,8 +33,8 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
+            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            yesBtn: "Yes <3",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
     },
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yaaay! I'm the luckiest girl in the world! HEHEHE 🎉💝💖💝💓",
-        message: "Aashutosh, tumhe idea probably nahi hai how easily you make me smile. Tumhare saath time ka pata hi nahi chalta, and honestly, I kind of love that. Thodi shy hu 💀, but I’m really happy you’re mine. 💕",
+        message: "Aashutosh, tumhe idea probably nahi hai how easily you make me smile. Tumhare saath time ka pata hi nahi chalta, and honestly, I kind of love that. Thodi shy hu 💀, but I’m really happy you’re mine <33",
         emojis: "💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -69,8 +69,8 @@ const CONFIG = {
     animations: {
         floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
+        bounceSpeed: "0.2s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        heartExplosionSize: 1.0         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
